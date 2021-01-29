@@ -3,7 +3,7 @@
 #checks for proper format
 if [ -z $1 ]
 then	
-	echo "Requires IP Ex: \"proofofconcept.sh 1.1.1.1\""
+	echo "Requires IP Ex: \"StartScan.sh 1.1.1.1\""
 	exit
 fi
 
